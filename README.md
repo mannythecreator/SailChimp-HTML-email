@@ -1,6 +1,6 @@
-# SailChimp-HTML-email
+# SailChimp - an HTML Marketing Email
 
-<p>Created an HTML/CSS email for advertising/marketing. Includes spaces for various content, logos, and social media links.</p>
+Created an HTML/CSS email for advertising/marketing. Includes spaces for various content, logos, and social media links.
 
 ![Sail Chimp Email Marketing title slide](https://github.com/mannythecreator/SailChimp-HTML-email/assets/60325078/7a29c9c3-5591-4beb-bdb7-088f2cf8148c)
 
